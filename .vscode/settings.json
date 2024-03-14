@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/a2d83027-e216-42fb-adab-6868a86f2d8e/resourceGroups/cloudblocker/providers/Microsoft.Web/sites/CloudBlockers-web-frontend",
-    "appService.deploySubpath": "frontend\\build"
-}
